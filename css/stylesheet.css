@@ -1,0 +1,17 @@
+body {
+    background: teal;
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid {
+    display: grid;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 560px;
+    width: 560px;
+    border: 1px solid red;
+}
