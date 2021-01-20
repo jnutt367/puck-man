@@ -11,7 +11,8 @@ body {
     flex-wrap: wrap;
     width: 560px;
     height: 560px;
-    border: solid black;
+    border: 30px inset red;
+    border-radius: 5px;
 }
 
 .grid div {
@@ -42,7 +43,8 @@ body {
 }
 
 .pinky {
-    background-image: url(../assets/blue.png);
+    background-image: url(../assets/red.png);
+    background-color: transparent;
     background-repeat: no-repeat;
     background-size: cover;
 }
