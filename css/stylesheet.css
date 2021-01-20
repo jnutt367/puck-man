@@ -72,3 +72,8 @@ body {
 .scared-ghost {
     background-color: aquamarine;
 }
+
+.footer-img {
+    border: 4px dotted yellow;
+    margin-bottom: 100px;
+}
