@@ -27,11 +27,11 @@ body {
 }
 
 .wall {
-    background-color: skyblue;
+    background-color: gold;
 }
 
 .power-pellet {
-    background-color: white;
+    background-color: skyblue;
     border-radius: 10px;
 }
 
