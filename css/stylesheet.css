@@ -39,13 +39,13 @@ body {
 }
 
 .blinky {
-    background-image: url(../assets/blue.png);
+    background-image: url(../assets/baddie_Cowboy.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .pinky {
-    background-image: url(../assets/red.png);
+    background-image: url(../assets/baddie_Devil.png);
     background-color: transparent;
     background-repeat: no-repeat;
     background-size: cover;
@@ -58,7 +58,7 @@ body {
 }
 
 .clyde {
-    background-image: url(../assets/blue.png);
+    background-image: url(../assets/baddie_Camouflage.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
